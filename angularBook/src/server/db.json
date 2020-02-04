@@ -1,0 +1,40 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "titolo": "Il nome della Rosa",
+      "autore": "Umberto Eco",
+      "isbn": "88-1548-254-12",
+      "prezzo": 25,
+      "img": "",
+      "trama": "Lorem Ipsum"
+    },
+    { 
+      "titolo": "il richiamo dell foresta",
+      "autore": "Jack London",
+      "isbn": "412-4512-875-47",
+      "prezzo": 24,
+      "trama": "lorem ipsum",
+      "img": "",
+      "id": "2"
+    },
+    { 
+      "titolo": "il richiamo dell foresta",
+      "autore": "Jack London",
+      "isbn": "412-4512-875-47",
+      "prezzo": 24,
+      "trama": "lorem ipsum",
+      "img": "",
+      "id": "3"
+    }, 
+    { 
+      "titolo": "il richiamo dell foresta",
+      "autore": "Jack London",
+      "isbn": "412-4512-875-47",
+      "prezzo": 24,
+      "trama": "lorem ipsum",
+      "img": "",
+      "id": "4"
+    }
+  ]
+}
